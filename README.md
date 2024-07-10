@@ -7,25 +7,8 @@ This News App is built using Jetpack Compose, Dagger Hilt, MVVM architecture, Da
 ## Feature Screenshots
 
 ### Onboarding Screen
-![Onboarding Screen](https://i.postimg.cc/tRxxPbtH/Onboarding-Screen.png)
+![App_Ui_Screen]([https://i.postimg.cc/tRxxPbtH/Onboarding-Screen.png](https://raw.githubusercontent.com/kishore-bot/NewsApp/main/image/NewsAppImage.png))
 
-### Home Screen - Hot News
-![Home Screen - Hot News](https://i.postimg.cc/Dz0Wz3yH/Home-Screen-Hot-News.png)
-
-### Search Screen
-![Search Screen](https://i.postimg.cc/nh0jZhZq/Search-Screen.png)
-
-### News Sources Screen
-![News Sources Screen](https://i.postimg.cc/fRwt694w/News-Sources-Screen.png)
-
-### Bookmarked News Screen
-![Bookmarked News Screen](https://i.postimg.cc/021J04cK/Bookmarked-News-Screen.png)
-
-### Category-based News Screen
-![Category-based News Screen](https://i.postimg.cc/BQ5PYCVY/Category-based-News-Screen.png)
-
-### Detailed News View
-![Detailed News View](https://i.postimg.cc/q7FNhDNR/Detailed-News-View.png)
 
 
 ## Features
