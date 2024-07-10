@@ -2,14 +2,10 @@
 
 This News App is built using Jetpack Compose, Dagger Hilt, MVVM architecture, DataStore Preference, Retrofit, Room, and follows a Clean Architecture approach.
 
-
-
 ## Feature Screenshots
 
-### Onboarding Screen
-![App_Ui_Screen]([https://i.postimg.cc/tRxxPbtH/Onboarding-Screen.png](https://raw.githubusercontent.com/kishore-bot/NewsApp/main/image/NewsAppImage.png))
-
-
+### App UI Screen
+![App UI Screen](https://raw.githubusercontent.com/kishore-bot/NewsApp/main/image/NewsAppImage.png)
 
 ## Features
 
@@ -39,6 +35,9 @@ This News App is built using Jetpack Compose, Dagger Hilt, MVVM architecture, Da
 - Presents detailed information about a selected news article.
 - Users can share, open in the browser, or save news for later reference.
 
+### Image
+- Image of app ui are on Image folder
+
 ## Installation
 
 Provide installation instructions for setting up and running the app locally.
@@ -46,11 +45,10 @@ Provide installation instructions for setting up and running the app locally.
 ### Prerequisites
 - Android Studio
 - Git
-- add your api-key Constant
+- Add your API-key constant
 
-```bash
-# Clone the repository
-https://github.com/kishore-bot/NewApp.git
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kishore-bot/NewsApp.git
 
-# Open the project in Android Studio
-# Build and run the app on an Android emulator or device
